@@ -1,0 +1,11 @@
+[wofi]
+show_icons=true
+icon_size=32
+border_width=2
+border_color=282c34
+background_color=1c1f24
+text_color=c0c5ce
+selected_background_color=3b4252
+selected_text_color=eceff4
+
+
